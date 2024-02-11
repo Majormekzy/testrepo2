@@ -1,2 +1,6 @@
 This is a test to see how merge works
+<<<<<<< HEAD
 This is testbranch connecting...
+=======
+This is master branch connecting...
+>>>>>>> master
